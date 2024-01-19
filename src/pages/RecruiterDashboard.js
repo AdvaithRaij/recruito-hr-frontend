@@ -6,10 +6,10 @@ import mainLogo from "../assets/images/Recruito-logos_black.png";
 import CandidateModal from "../components/CandidateModal";
 
 const navigation = [
-  { name: "Product", href: "#" },
-  { name: "Features", href: "#" },
-  { name: "Marketplace", href: "#" },
-  { name: "Company", href: "#" },
+  { name: "Recruiter Dashboard", href: "/recruiter-dashboard" },
+  { name: "Candidate Dashboard", href: "/candidate-dashboard" },
+  // { name: "Marketplace", href: "#" },
+  // { name: "Company", href: "#" },
 ];
 
 const imageUrls = [

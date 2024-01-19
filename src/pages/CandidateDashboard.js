@@ -7,10 +7,10 @@ import { PhotoIcon, UserCircleIcon } from "@heroicons/react/24/solid";
 import Toast from "../components/Toast";
 
 const navigation = [
-  { name: "Product", href: "#" },
-  { name: "Features", href: "#" },
-  { name: "Marketplace", href: "#" },
-  { name: "Company", href: "#" },
+  { name: "Recruiter Dashboard", href: "/recruiter-dashboard" },
+  { name: "Candidate Dashboard", href: "/candidate-dashboard" },
+  // { name: "Marketplace", href: "#" },
+  // { name: "Company", href: "#" },
 ];
 
 const Dashboard = () => {
