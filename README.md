@@ -1,7 +1,7 @@
 # To Run the Application Locally
 
 Clone the repo and install the depndencies with npm install.
-Change the URL fo fetch calls to http://localhost:8000 or whatever localhost the backend is running on.
+Change the URL of fetch calls to http://localhost:8000 or whatever localhost the backend is running on.
 
 # Getting Started with Create React App
 
