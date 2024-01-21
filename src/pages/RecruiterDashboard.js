@@ -124,7 +124,6 @@ const Dashboard = () => {
   const handleCandidateInfoModal = (candidate) => {
     setSelectedCandidate(candidate);
     setIsOpen(true);
-    setMobileMenuOpen(true);
   };
 
   const calculateScore = (experience) => {
